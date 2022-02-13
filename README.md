@@ -45,7 +45,7 @@ In this project I create a awesome app using SwiftUI framework.
 
 <!-- SCREENSHOTS -->
 ## 📸  SCREENSHOTS <a name="screenshots"></a>
-<img src="https://github.com/PaoloProdossimoLopes/swiftui-sweater-app-demo/blob/main/readme-assets/simulator-step1.png" height="300">                         <img src="https://github.com/PaoloProdossimoLopes/swiftui-sweater-app-demo/blob/main/readme-assets/simulator-step2.png" height="300">
+<img src="https://github.com/PaoloProdossimoLopes/swiftui-sweater-app-demo/blob/main/README_ASSETS/SIMULADOR_HOME.png" height="300">                             <img src="https://github.com/PaoloProdossimoLopes/swiftui-sweater-app-demo/blob/main/README_ASSETS/SIMULADOR_CART.png" height="300">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
