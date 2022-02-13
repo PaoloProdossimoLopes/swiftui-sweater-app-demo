@@ -62,7 +62,7 @@ In this project I create a awesome app using SwiftUI framework.
 1. Open your terminal in location that you want save the project.
 2. Clone the repo in this local.
 ```sh
-git clone https://github.com/PaoloProdossimoLopes/swift-sidebar-menu-example.git
+git clone https://github.com/PaoloProdossimoLopes/swiftui-sweater-app-demo.git
 ```
 3. Open the file with extension .xcodeproj inside the folder project.
    
